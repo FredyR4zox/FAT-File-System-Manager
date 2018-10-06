@@ -1,4 +1,4 @@
-# FAT-File-System-Manager
+# FAT File System Manager
 Second project for the subject Operating Systems, which consisted in developing a file system manager for the FAT (File Allocation Table) architecture.
 
 
